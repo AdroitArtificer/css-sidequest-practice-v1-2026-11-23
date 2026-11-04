@@ -1,0 +1,14 @@
+#phone{
+    font-size: 1.5em;
+    color: rgb(0, 135, 153)
+}
+img{
+    width: 200px;
+}
+
+body {
+    text-align: center;
+    color: #c95f56;
+    font-family: 'Yellowtail';
+    background-color: '#6f298f'
+}
